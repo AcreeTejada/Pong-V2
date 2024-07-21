@@ -460,8 +460,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xMove: 1
   yMove: 1
-  xSpeed: 0.3
-  ySpeed: 0.3
+  xSpeed: 0.03
+  ySpeed: 0.03
   xBorder: 10.1
   yBorder: 5.1
   scoreTextLP: {fileID: 1883079160}
